@@ -1,3 +1,9 @@
+[web_servers]
 quetzal@192.168.100.205
+root@192.168.100.21
+
+[db_servers]
 quetzal@192.168.100.206
+
+[file_servers]
 quetzal@192.168.100.207

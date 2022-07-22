@@ -1,6 +1,6 @@
 [web_servers]
 quetzal@192.168.100.205
-root@192.168.100.21
+root@192.168.100.214
 
 [db_servers]
 quetzal@192.168.100.206
